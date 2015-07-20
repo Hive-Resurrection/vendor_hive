@@ -26,7 +26,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.ril.enable.amr.wideband=1 \
     net.tethering.noprovisioning=true \
     persist.sys.dun.override=0 \
-    ro.mod.display.version=Mutant-1.00 \
+    ro.mod.display.version=Testing-123 \
     drm.service.enabled=true \
      
 # Common overlays
